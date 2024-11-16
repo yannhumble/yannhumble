@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @yann
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🚀 Cloud Enthusiast | AWS Solutions Architect
+Hi there! I'm a passionate AWS Solutions Architect with expertise in designing and deploying scalable, secure, and cost-effective cloud solutions. My projects focus on serverless architectures, DevOps practices, and innovative generative AI applications using AWS services like Lambda, SageMaker, and CloudFormation.
 
-<!---
-yannhumble/yannhumble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 What I Do:
+
+Build cloud-native applications and automate infrastructure.
+Solve real-world problems with ML/AI solutions.
+Share knowledge through code, blogs, and open-source contributions.
+🌐 Let’s Connect: Collaborate, innovate, and build the future in the cloud!
